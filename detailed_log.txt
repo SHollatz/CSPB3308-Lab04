@@ -1,0 +1,55 @@
+*   commit ed0dca25c64f1769859218ebbffc0eb15c8254a6 (HEAD -> master)
+|\  Merge: 828a4d2 abaa9cc
+| | Author: SaHolly <ztallohs@gmail.com>
+| | Date:   Thu Sep 17 08:47:04 2020 -0700
+| | 
+| |     Merge branch 'master' of github.com:SHollatz/CSPB3308-Lab04
+| | 
+| * commit abaa9ccf021d8fceee943a7bb98eb998b06b6fc0 (origin/master)
+| | Author: jkirkpatrickmath <julie.kirkpatrick@cfschools.org>
+| | Date:   Wed Sep 16 15:40:13 2020 -0500
+| | 
+| |     step 19, adding to partner's readme
+| | 
+* | commit 828a4d21ddd351469637dcddbb9b0bca9088d42c
+| | Author: SaHolly <ztallohs@gmail.com>
+| | Date:   Thu Sep 17 08:44:12 2020 -0700
+| | 
+| |     edited README
+| | 
+* | commit cf5d6ded109fe67bf81c44993d47db6a7af1e3d0
+|/  Author: SaHolly <ztallohs@gmail.com>
+|   Date:   Wed Sep 16 12:27:15 2020 -0700
+|   
+|       edited README
+|   
+*   commit 737e016a1140c94c68f9171f9f77aafdbc005670 (origin/SHollatz/testing-new-files, SHollatz/testing-new-files)
+|\  Merge: 17958fe 0d95e81
+| | Author: SaHolly <ztallohs@gmail.com>
+| | Date:   Wed Sep 16 10:40:56 2020 -0700
+| | 
+| |     Merge branch 'SHollatz/testing-new-files'
+| | 
+| * commit 0d95e81912b50ed79c14e742be60962549eebcc9
+| | Author: SaHolly <ztallohs@gmail.com>
+| | Date:   Wed Sep 16 10:39:01 2020 -0700
+| | 
+| |     added more files
+| | 
+* | commit 17958fe1bed62583e3a066be5b37693388aff275
+|/  Author: SaHolly <ztallohs@gmail.com>
+|   Date:   Wed Sep 16 10:40:38 2020 -0700
+|   
+|       changed file2.txt
+| 
+* commit 60e634f11c3e54f84ade1a6688da79d439843b7e (tag: v0.0.1)
+| Author: SaHolly <ztallohs@gmail.com>
+| Date:   Wed Sep 16 10:17:33 2020 -0700
+| 
+|     added a few other files
+| 
+* commit d9422087f9fee54b4221916b49f5b9ee924c1f74
+  Author: SaHolly <ztallohs@gmail.com>
+  Date:   Wed Sep 16 10:15:06 2020 -0700
+  
+      added README.md
